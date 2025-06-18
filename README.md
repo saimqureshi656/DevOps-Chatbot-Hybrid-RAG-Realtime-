@@ -11,7 +11,7 @@ A powerful DevOps assistant chatbot that answers technical queries using both **
 ✅ Answer generation using **Groq’s LLaMA3** model  
 ✅ FastAPI backend for flexible integration  
 ✅ Streamlit frontend for easy web-based UI  
-✅ Dual mode hybrid retrieval (static + web)  
+✅ Dual mode hybrid retrieval RAG (static + web)  
 ✅ Prompt template & memory support  
 ✅ Azure VM deployment-ready setup
 
@@ -20,6 +20,7 @@ A powerful DevOps assistant chatbot that answers technical queries using both **
 ## 📦 Tech Stack
 
 - **LangChain**
+- **RAG**
 - **Groq LLaMA3 (via API)**
 - **FAISS**
 - **Tavily API** (for real-time web search)
