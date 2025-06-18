@@ -1,0 +1,8 @@
+# .gitignore
+# Ignore virtual env
+devops-bot-env/
+devops_vector_db/
+__pycache__/
+.env
+*.pyc
+*.pkl
